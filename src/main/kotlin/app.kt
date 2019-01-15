@@ -3,6 +3,7 @@ fun main() {
     println("Welcome to Student Manager System... Please wait while we're getting the database")
 
     do{
+        try{
         println("--------------------------------------")
         println("Add student -> 1 ")
         println("Delete student -> 2 ")
@@ -89,7 +90,10 @@ fun main() {
                 println("Classroom: "+student.Class)
                 readLine()
 
-            }
+            } else -> println("Invalid number.")
+        }
+        }catch (e:Exception){
+            println("The program has just detected one or more error!!")
         }
     }while (true)
 }

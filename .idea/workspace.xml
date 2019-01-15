@@ -33,16 +33,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/app.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="219">
+              <caret line="95" column="72" lean-forward="true" selection-start-line="95" selection-start-column="72" selection-end-line="95" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Menu.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
@@ -70,15 +70,15 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/database.json" />
         <option value="$PROJECT_DIR$/src/main/kotlin/test.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/app.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/StudentClass.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Menu.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/app.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4" />
-    <option name="y" value="314" />
+    <option name="x" value="-51" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
@@ -187,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547537341073</updated>
-      <workItem from="1547537344414" duration="15551000" />
+      <workItem from="1547537344414" duration="16038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15551000" />
+    <option name="totallyTimeSpent" value="16038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -211,7 +211,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32872504" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,6 +285,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Menu.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/StudentClass.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -297,18 +307,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/app.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Menu.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#126#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="219">
+          <caret line="95" column="72" lean-forward="true" selection-start-line="95" selection-start-column="72" selection-end-line="95" selection-end-column="72" />
         </state>
       </provider>
     </entry>
